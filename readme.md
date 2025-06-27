@@ -3,6 +3,7 @@
 This is a template repo for SomerStat
 
 ## Description
+This repo is ready to use on Tableau and recreate all the plots in the plots folder attached.
 
 Template repositories are examples that can be copied when new repositories are added. This can help simplify setting up a repository and remembering / executing the steps it takes to make things good. We can have a few templates, one for R projects, etc.
 
